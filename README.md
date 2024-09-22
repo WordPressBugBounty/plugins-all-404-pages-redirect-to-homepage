@@ -1,0 +1,1 @@
+# plugins-all-404-pages-redirect-to-homepage
